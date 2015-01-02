@@ -1,0 +1,17 @@
+body {
+    background-color:#f8f8ff;
+    padding-top:40px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.magellan-container > dl > dd > a {
+    font-size:0.75rem;
+}
+.page-header {
+    margin:24px 0 20px;
+    border-bottom:1px solid #ddd;
+}
+/* Tables */
+table {
+    width:100%;
+}
